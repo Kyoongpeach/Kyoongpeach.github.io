@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Strange dream</title>
+    <link rel="stylesheet" href="style.css">
+     <script src="dream.js"></script>
+
+  </head>
+
+  <body>
+
+    <ul id="start" style="display:block">
+      <h2 style="font-size:3vw ">You are dreaming~</h2>
+      <div id="pic">
+      <img src="dream.jpeg">
+      </div>
+      <div class="op">
+      <button onclick="start()">Start</button>
+      </div>
+    </ul>
+
+<ul id="numberOne" style="display:none">
+  <h2 style="font-size:3vw">You are dreaming~</h2>
+  <h3 style="font-size:2vw">Strange dream</h3>
+  <p>你掉进了一个地方，睁开眼睛发现前面有一只xxx在说话，你觉得是：</p>
+    <div id="pic1">
+      <img src="heiying.jpg">
+    </div>
+    <div class="op">
+      <button onclick="choose1()">菠萝</button>
+      <button onclick="else1()">蚂蚁</button>
+    </div>
+</ul>
+ <ul id="resert1" style="display:none">
+  <button onclick="resetButton1()">回到上一步</button>
+ </ul>
+
+
+<ul id="numberTwo" style="display:none">
+  <p>菠萝：Hi，你好呀，又新来了个朋友，我很黑凤！ </p>
+  <img src="boluo.png">
+    <p>你:......</p>
+    <img src="wuyu.png"
+    width="100"
+    height="100"
+    >
+    <p>你环顾四周，发现你掉进了山洞里，周围啥都没有，只有这只菠萝</p>
+    <p>你只好：</p>
+  <div class="op">
+    <button onclick="else2()">抓耳挠腮</button>
+    <button onclick="choose2()">just stay</button>
+    <button onclick="think2()">摸索墙壁</button>
+</ul>
+  <ul id="resert2" style="display:none">
+   <button onclick="resetButton2()">回到上一步</button>
+  </ul>
+
+<ul id="numberThree" style="display:none">
+  <p>菠萝头上长出了长长的菠萝藤</p>
+  <img src="tengtiao.png"
+  width="100"
+  height="100">
+    <p>你:wow！大跌眼镜！</p>
+    <img src="zhenjing.png">
+    <p>你顺着这条“藤”爬出了山洞</p>
+    <p>此时你选择：</p>
+  <div class="op">
+    <button onclick="choose3()">丢下这只奇怪的菠萝</button>
+    <button onclick="else3()">把菠萝也救出来</button>
+</ul>
+  <ul id="resert3" style="display:none">
+   <button onclick="resetButton3()">回到上一步</button>
+  </ul>
+
+  <ul id="numberFour" style="display:none">
+    <p>菠萝为了感激你，从旁边的树上摘了一颗桃子给你</p>
+    <img src="taozi.png">
+    <p>你正好渴了，你选择：</p>
+    <div class="op">
+      <button onclick="else4()">接过桃子</button>
+      <button onclick="choose4()">不吃陌生人的东西</button>
+      <button onclick="think4()">你把桃子劈成两半，和菠萝一起吃</button>
+  </ul>
+    <ul id="ending" style="display:none">
+    <h2 style="font-size:3vw ">真是个奇怪的梦！</h2>
+    <img src="xiaxing.png">
+   <ul id="resert4" style="display:none">
+    <div class="op1">
+    <button onclick="resetButton4()">再玩一遍</button>
+   </ul>
+
+
+  </body>
+</html>

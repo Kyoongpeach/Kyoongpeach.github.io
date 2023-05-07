@@ -1,0 +1,32 @@
+body{
+  font-family: Georgia, "Times New Roman",Times, serif;
+  color: white;
+  text-align: center;
+  background-color:rgb(79, 95, 121)}
+  #pic {
+    text-align: center;
+     /*表示div的子元素居中*/`
+}
+  img{
+      border-radius: 8px;
+      max-width: 20%;
+      height: auto;
+  }
+  div.op button {
+    position:relative; /*相对定位*/
+    top:40px;
+    color:black;
+    background:white;
+    border-radius: 10px;
+  }
+  div.op1 button {
+    text-align: center;
+    position:relative; /*相对定位*/
+    top:40px;
+    color:black;
+    background:white;
+    border-radius: 10px;
+
+  }
+
+}
