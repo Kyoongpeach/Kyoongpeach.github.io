@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+html,body{
+  font-family: 'Poppins',sans-serif;
+
+
+  // Extra small devices (portrait phones, less than 576px)
+  @media (max-width: 575.98px) { ... }
+
+  // Small devices (landscape phones, less than 768px)
+  @media (max-width: 767.98px) { ... }
+
+  // Medium devices (tablets, less than 992px)
+  @media (max-width: 991.98px) { ... }
+
+  // Large devices (desktops, less than 1200px)
+  @media (max-width: 1199.98px) { ... }
+
+  // Extra large devices (large desktops)
+  // No media query since the extra-large breakpoint has no upper bound on its width
+
+}
+#navbar{
+background-color: rgb(251, 190, 188);
+}
+
+figure{
+  position:relative;
+  width:100%;
+  height: 100%;
+  margin:0;
+}
+#fiexd{
+  background-image: url('background-1.png');
+  height: 700px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+#introduce{
+  background-color: white;
+}
+.btn-Primary{
+  background-color: #fbdad7;
+}
+
+#img1{
+
+  width:70%;
+  height: 60%;
+}
+
+.line{
+    border-top: 3px solid ;
+    width: 25%;
+    color: black;
+}
