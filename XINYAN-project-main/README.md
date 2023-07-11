@@ -1,2 +1,11 @@
 # Creative_interaction_lesson1
 ![1.GIF](https://img1.imgtp.com/2023/07/12/jRK2pXjm.GIF)
+![2.GIF](https://img1.imgtp.com/2023/07/12/Lpw9U0xB.GIF)
+![3.GIF](https://img1.imgtp.com/2023/07/12/wYbOaY52.GIF)
+![4.GIF](https://img1.imgtp.com/2023/07/12/QEXLB1Zi.GIF)
+![5.GIF](https://img1.imgtp.com/2023/07/12/7rLQUtSg.GIF)
+![6.GIF](https://img1.imgtp.com/2023/07/12/oKNWscJ2.GIF)
+![7.GIF](https://img1.imgtp.com/2023/07/12/FsYjjjTR.GIF)
+![8.GIF](https://img1.imgtp.com/2023/07/12/lvv5PM4s.GIF)
+![9.GIF](https://img1.imgtp.com/2023/07/12/hD7MaqI7.GIF)
+![10.GIF](https://img1.imgtp.com/2023/07/12/5JdQFpCL.GIF)
